@@ -1,0 +1,33 @@
+body{
+  background: url("../img/bg.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.heading{
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+#brand{
+  color : #e6a756;
+  font-size: 2em;
+}
+
+nav{
+  background-color: rgba(47,23,15,.9);
+  margin-bottom: 20px;
+}
+
+.section-heading-upper{
+  color : #e6a756;
+}
+
+.section-heading-lower{
+  color : #ffffff;
+}
+
+.written{
+  color : #e3e3e3;
+}
